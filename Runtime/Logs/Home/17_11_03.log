@@ -1,0 +1,3069 @@
+[ 2017-11-03T00:00:44+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000967s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001969s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000545s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000638s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 98 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030132s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002969s ]
+
+[ 2017-11-03T00:00:47+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001289s ]
+
+[ 2017-11-03T00:04:57+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002581s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000553s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000653s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030141s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003200s ]
+
+[ 2017-11-03T00:05:53+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001358s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000539s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030814s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000620s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002267s ]
+
+[ 2017-11-03T00:06:02+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000552s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000652s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028168s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028266s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001687s ]
+
+[ 2017-11-03T00:06:16+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000541s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000639s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029632s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029713s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000666s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002263s ]
+
+[ 2017-11-03T00:06:22+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000720s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005855s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006012s ]
+
+[ 2017-11-03T09:07:58+08:00 ] ::1 /index.php/Home/LoginHome/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002164s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000659s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000762s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000955s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001024s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002626s ]
+
+[ 2017-11-03T09:08:15+08:00 ] ::1 /index.php/Home/LoginHome/photographHome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001458s ]
+SQL: SHOW COLUMNS FROM `think_login_home` [ RunTime:0.5537s ]
+SQL: SELECT * FROM `think_login_home` WHERE `username` = 'Laura' LIMIT 1   [ RunTime:0.0575s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000573s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000663s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034732s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001785s ]
+
+[ 2017-11-03T09:08:21+08:00 ] ::1 /index.php/Home/LoginHome/userHome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+SQL: SHOW COLUMNS FROM `think_login_home` [ RunTime:0.1908s ]
+SQL: SELECT * FROM `think_login_home` WHERE `username` = 'Laura' LIMIT 1   [ RunTime:0.0223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000526s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000618s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032358s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032458s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001678s ]
+
+[ 2017-11-03T09:08:37+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000534s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002265s ]
+
+[ 2017-11-03T09:08:45+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000544s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000640s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000690s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002199s ]
+
+[ 2017-11-03T09:09:40+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000552s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000667s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029471s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002672s ]
+
+[ 2017-11-03T09:14:01+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001633s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000653s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000743s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002678s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002830s ]
+
+[ 2017-11-03T09:14:56+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000532s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000620s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028115s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000897s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002269s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002412s ]
+
+[ 2017-11-03T09:16:18+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000480s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000564s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027709s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003553s ]
+
+[ 2017-11-03T09:16:54+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000779s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000925s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028107s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000901s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002678s ]
+
+[ 2017-11-03T09:20:31+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.014851s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.188250s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.188474s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.944121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.944250s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002729s ]
+
+[ 2017-11-03T09:20:46+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000575s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000662s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030102s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002715s ]
+
+[ 2017-11-03T09:21:29+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002348s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000575s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000667s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031820s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000894s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003209s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003355s ]
+
+[ 2017-11-03T09:25:13+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000585s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000674s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029572s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002191s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002320s ]
+
+[ 2017-11-03T09:25:49+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000580s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000676s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027243s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002129s ]
+
+[ 2017-11-03T09:27:54+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000603s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000712s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028670s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028772s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000837s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002707s ]
+
+[ 2017-11-03T09:28:33+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001258s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000598s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000709s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027738s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003515s ]
+
+[ 2017-11-03T09:28:58+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000873s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001014s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042631s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004277s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004435s ]
+
+[ 2017-11-03T09:29:42+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000813s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000932s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002153s ]
+
+[ 2017-11-03T09:30:10+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000570s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000655s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028454s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002782s ]
+
+[ 2017-11-03T09:30:44+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000556s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000645s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026778s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026879s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000826s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002460s ]
+
+[ 2017-11-03T09:31:15+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000584s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000686s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029202s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003679s ]
+
+[ 2017-11-03T09:31:44+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000580s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000672s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002219s ]
+
+[ 2017-11-03T09:31:56+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000559s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000660s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027046s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002133s ]
+
+[ 2017-11-03T09:33:41+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000693s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000858s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030012s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000890s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004659s ]
+
+[ 2017-11-03T09:34:47+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001311s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000672s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000822s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002157s ]
+
+[ 2017-11-03T09:34:56+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000568s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000664s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002526s ]
+
+[ 2017-11-03T09:36:06+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001911s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000595s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000680s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029188s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029291s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002381s ]
+
+[ 2017-11-03T09:37:41+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000591s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000687s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003459s ]
+
+[ 2017-11-03T09:54:39+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001458s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000587s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000679s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030087s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030187s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002750s ]
+
+[ 2017-11-03T09:56:43+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000667s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000784s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000840s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003271s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003407s ]
+
+[ 2017-11-03T09:57:54+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001453s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000592s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000680s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002430s ]
+
+[ 2017-11-03T09:58:08+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002233s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000821s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000983s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038409s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038562s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003289s ]
+
+[ 2017-11-03T10:02:02+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000584s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000689s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029397s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029515s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000924s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002642s ]
+
+[ 2017-11-03T10:04:37+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000599s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000700s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034934s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003971s ]
+
+[ 2017-11-03T10:07:16+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000690s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029113s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002608s ]
+
+[ 2017-11-03T10:13:46+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002166s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000869s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001005s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.652275s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.652426s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001751s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002966s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003453s ]
+
+[ 2017-11-03T10:14:00+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001171s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000574s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000663s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000654s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002089s ]
+
+[ 2017-11-03T10:14:06+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000550s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000978s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002696s ]
+
+[ 2017-11-03T10:14:10+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000565s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000652s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001679s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001801s ]
+
+[ 2017-11-03T10:14:13+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000529s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002120s ]
+
+[ 2017-11-03T10:14:15+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001191s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000563s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000653s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028191s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001951s ]
+
+[ 2017-11-03T10:16:04+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001262s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000562s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000659s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026949s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027053s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003723s ]
+
+[ 2017-11-03T10:16:46+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000510s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000598s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027829s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002687s ]
+
+[ 2017-11-03T10:17:16+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001428s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000499s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000592s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000855s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002509s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002659s ]
+
+[ 2017-11-03T10:17:18+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000490s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000578s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002143s ]
+
+[ 2017-11-03T10:17:39+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001179s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000508s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000596s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002096s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2017-11-03T10:17:58+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000494s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000583s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025497s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025623s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003208s ]
+
+[ 2017-11-03T10:18:38+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000503s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000590s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000915s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002677s ]
+
+[ 2017-11-03T10:19:04+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000495s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000596s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025416s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000714s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002540s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002679s ]
+
+[ 2017-11-03T10:20:30+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001437s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000551s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000660s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027179s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002970s ]
+
+[ 2017-11-03T10:20:59+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000923s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000500s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000605s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003143s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003271s ]
+
+[ 2017-11-03T10:21:57+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000501s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000599s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117944s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118040s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002187s ]
+
+[ 2017-11-03T10:24:20+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000934s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001474s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000545s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000630s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000893s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002928s ]
+
+[ 2017-11-03T10:36:06+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001464s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000721s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000851s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001760s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001885s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004574s ]
+
+[ 2017-11-03T10:39:39+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001461s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000756s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000909s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031643s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003921s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004046s ]
+
+[ 2017-11-03T10:40:00+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000657s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000793s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027044s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002697s ]
+
+[ 2017-11-03T10:40:16+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000941s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028234s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028337s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002383s ]
+
+[ 2017-11-03T10:41:35+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000540s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000634s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:2.614162s ]
+INFO: [ view_parse ] --END-- [ RunTime:2.614267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002777s ]
+
+[ 2017-11-03T10:41:39+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000650s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000768s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002622s ]
+
+[ 2017-11-03T10:42:15+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000646s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000747s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028296s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028403s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002527s ]
+
+[ 2017-11-03T10:42:25+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000534s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000627s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028110s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002955s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003084s ]
+
+[ 2017-11-03T10:42:29+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001188s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000533s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000669s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002335s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002482s ]
+
+[ 2017-11-03T10:42:30+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000785s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000925s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037382s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002590s ]
+
+[ 2017-11-03T10:43:40+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000816s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000978s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031170s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002457s ]
+
+[ 2017-11-03T10:59:53+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001515s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000541s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000658s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056493s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000862s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003281s ]
+
+[ 2017-11-03T11:00:27+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000533s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000630s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098073s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098183s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002778s ]
+
+[ 2017-11-03T11:05:09+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001496s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000643s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.287680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.287792s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002298s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002431s ]
+
+[ 2017-11-03T11:06:53+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001127s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000528s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000621s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027218s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002035s ]
+
+[ 2017-11-03T11:09:33+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000777s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000909s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002673s ]
+
+[ 2017-11-03T11:10:14+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001707s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000804s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000963s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038293s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038437s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004659s ]
+
+[ 2017-11-03T11:10:30+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000542s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000641s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027935s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000916s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003341s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003476s ]
+
+[ 2017-11-03T11:11:27+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000689s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000845s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003600s ]
+
+[ 2017-11-03T11:11:52+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000940s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000540s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000631s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027721s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002672s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002825s ]
+
+[ 2017-11-03T11:12:09+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000563s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000673s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002356s ]
+
+[ 2017-11-03T11:12:10+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001863s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000570s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000668s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026162s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001927s ]
+
+[ 2017-11-03T11:12:44+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000582s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000680s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028856s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001581s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002442s ]
+
+[ 2017-11-03T11:13:16+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000558s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000652s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002422s ]
+
+[ 2017-11-03T11:13:32+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001312s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000585s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000684s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001591s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2017-11-03T11:15:39+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000674s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000774s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035770s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005814s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008105s ]
+
+[ 2017-11-03T11:15:55+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001170s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000603s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000697s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002331s ]
+
+[ 2017-11-03T11:16:07+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002215s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000877s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001014s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.287284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.287413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002973s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003142s ]
+
+[ 2017-11-03T11:24:45+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000585s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000673s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059918s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000888s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002769s ]
+
+[ 2017-11-03T11:25:07+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000968s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000663s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000763s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029633s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000878s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002211s ]
+
+[ 2017-11-03T11:25:21+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000647s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000752s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000682s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003725s ]
+
+[ 2017-11-03T11:32:31+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001563s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000536s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000635s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.171774s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.171877s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002590s ]
+
+[ 2017-11-03T11:38:03+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001425s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001307s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.536311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.536398s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003305s ]
+
+[ 2017-11-03T12:38:56+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007049s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000233s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040315s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003111s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003513s ]
+
+[ 2017-11-03T12:42:59+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001505s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001597s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001109s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001385s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005870s ]
+
+[ 2017-11-03T12:43:33+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002099s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000717s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000816s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002492s ]
+
+[ 2017-11-03T12:43:56+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001773s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001005s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001157s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037736s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002491s ]
+
+[ 2017-11-03T12:44:38+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000687s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000801s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001834s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003163s ]
+
+[ 2017-11-03T12:46:01+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001799s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001918s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000810s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000916s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 303 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 306 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 307 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 324 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 327 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 328 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 345 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 348 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 349 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 366 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 369 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 370 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 387 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 390 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 391 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 408 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 411 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 412 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081114s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000964s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002702s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002827s ]
+
+[ 2017-11-03T12:48:30+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000832s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000932s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 303 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 306 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 307 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 307 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 324 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 327 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 328 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 328 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 345 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 348 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 349 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 349 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 366 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 369 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 370 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 370 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 387 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 390 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 391 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 391 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 408 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 411 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 412 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 412 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127502s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000993s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001102s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003508s ]
+
+[ 2017-11-03T12:58:42+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001652s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000542s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000632s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040372s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000844s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000907s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002740s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002887s ]
+
+[ 2017-11-03T13:04:01+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000979s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001932s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002051s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000551s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000972s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002234s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002366s ]
+
+[ 2017-11-03T13:05:10+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000657s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002151s ]
+
+[ 2017-11-03T13:05:12+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001213s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000398s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000485s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024519s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001409s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001523s ]
+
+[ 2017-11-03T13:07:14+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000467s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000571s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027893s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027993s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002480s ]
+
+[ 2017-11-03T13:10:25+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000814s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000987s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 101 行.
+NOTIC: [8] Undefined variable: password D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 108 行.
+NOTIC: [8] Undefined variable: email D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 115 行.
+NOTIC: [8] Undefined variable: wechat D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 122 行.
+NOTIC: [8] Undefined variable: introduction D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.052472s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.052583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001176s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002772s ]
+
+[ 2017-11-03T13:11:00+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000455s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 96 行.
+NOTIC: [8] Undefined variable: password D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 103 行.
+NOTIC: [8] Undefined variable: email D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 110 行.
+NOTIC: [8] Undefined variable: wechat D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 117 行.
+NOTIC: [8] Undefined variable: introduction D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 124 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000702s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000778s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002959s ]
+
+[ 2017-11-03T20:25:46+08:00 ] ::1 /index.php/Home/LoginHome/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.163940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.164085s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001828s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.017201s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018026s ]
+
+[ 2017-11-03T20:25:58+08:00 ] ::1 /index.php/Home/LoginHome/photographHome
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001173s ]
+SQL: SHOW COLUMNS FROM `think_login_home` [ RunTime:0.0916s ]
+SQL: SELECT * FROM `think_login_home` WHERE `username` = 'Laura' LIMIT 1   [ RunTime:0.0183s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000546s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000643s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002058s ]
+
+[ 2017-11-03T20:26:10+08:00 ] ::1 /index.php/Home/LoginHome/photographActivity
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001860s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000843s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000939s ]
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 153 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 155 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 156 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 157 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 158 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 174 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 176 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 177 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 178 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 179 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 195 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 197 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 198 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 199 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 200 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 216 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 218 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 219 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 220 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 221 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 237 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 239 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 240 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 241 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 242 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 258 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 260 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 261 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 262 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 263 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 303 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 305 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 306 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 307 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 307 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 308 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 324 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 326 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 327 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 328 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 328 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 329 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 345 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 347 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 348 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 349 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 349 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 350 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 366 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 368 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 369 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 370 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 370 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 371 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 387 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 389 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 390 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 391 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 391 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 392 行.
+NOTIC: [8] Undefined variable: activityTitle D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 408 行.
+NOTIC: [8] Undefined variable: activityLeader D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityCategory D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 410 行.
+NOTIC: [8] Undefined variable: activityIntroduction D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 411 行.
+NOTIC: [8] Undefined variable: activityTime D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 412 行.
+NOTIC: [8] Undefined variable: activityFee D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 412 行.
+NOTIC: [8] Undefined variable: activityPlace D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+NOTIC: [8] Undefined variable: activityPosition D:\MyServer\Apache24\www\Runtime\Cache\Home\36158ad9c723278a71c8a73cef96fb27.php 第 413 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001760s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002145s ]
+
+[ 2017-11-03T20:26:13+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000542s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032523s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032622s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001602s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001738s ]
+
+[ 2017-11-03T20:26:15+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000814s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001505s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000459s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000556s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 96 行.
+NOTIC: [8] Undefined variable: password D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 103 行.
+NOTIC: [8] Undefined variable: email D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 110 行.
+NOTIC: [8] Undefined variable: wechat D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 117 行.
+NOTIC: [8] Undefined variable: introduction D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 124 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.096852s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.096939s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002211s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002319s ]
+
+[ 2017-11-03T20:26:19+08:00 ] ::1 /index.php/Home/LoginHome/photographHome2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000535s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000640s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\66a85b9c43641ce1e8a7c20c65390ed7.php 第 104 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026131s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002342s ]
+
+[ 2017-11-03T20:26:22+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001831s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000677s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000846s ]
+NOTIC: [8] Undefined variable: username D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 96 行.
+NOTIC: [8] Undefined variable: password D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 103 行.
+NOTIC: [8] Undefined variable: email D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 110 行.
+NOTIC: [8] Undefined variable: wechat D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 117 行.
+NOTIC: [8] Undefined variable: introduction D:\MyServer\Apache24\www\Runtime\Cache\Home\df45e18825251feea4995929bf31a19d.php 第 124 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031534s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031630s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000667s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003319s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003458s ]
+
+[ 2017-11-03T21:04:37+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000494s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000594s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033109s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002629s ]
+
+[ 2017-11-03T21:06:05+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016922s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.044276s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.044414s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002410s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002582s ]
+
+[ 2017-11-03T21:06:39+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000485s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000585s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028505s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002277s ]
+
+[ 2017-11-03T21:16:31+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000452s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002958s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003112s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.027981s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.028158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.130152s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.130331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002624s ]
+
+[ 2017-11-03T21:17:00+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000494s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000595s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002708s ]
+
+[ 2017-11-03T21:18:30+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002195s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000492s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000598s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003522s ]
+
+[ 2017-11-03T21:18:35+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002210s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000530s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000633s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127584s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002214s ]
+
+[ 2017-11-03T21:22:01+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001473s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000499s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030969s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002736s ]
+
+[ 2017-11-03T21:24:03+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001610s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000756s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000895s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000983s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003373s ]
+
+[ 2017-11-03T21:24:40+08:00 ] ::1 /index.php/Home/LoginHome/activityLaunch
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000493s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000594s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002304s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002426s ]
+

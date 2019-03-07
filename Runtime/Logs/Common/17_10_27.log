@@ -1,0 +1,141 @@
+[ 2017-10-27T13:12:13+08:00 ] ::1 /index.php/assets/css/ie10-viewport-bug-workaround.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001213s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:12:13+08:00 ] ::1 /index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001766s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:12:13+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:12:13+08:00 ] ::1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-10-27T13:58:50+08:00 ] ::1 /index.php/assets/css/ie10-viewport-bug-workaround.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001214s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:58:50+08:00 ] ::1 /index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:58:50+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:58:50+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:58:50+08:00 ] ::1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002387s ]
+
+[ 2017-10-27T13:59:24+08:00 ] ::1 /index.php/assets/css/ie10-viewport-bug-workaround.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001784s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:59:24+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001492s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:59:24+08:00 ] ::1 /index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001706s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T13:59:24+08:00 ] ::1 /index.php/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/css/ie10-viewport-bug-workaround.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/js/vendor/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001422s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/js/vendor/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:05:38+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:06:33+08:00 ] ::1 /index.php/assets/js/ie-emulation-modes-warning.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:06:33+08:00 ] ::1 /index.php/assets/css/ie10-viewport-bug-workaround.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:06:33+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:06:33+08:00 ] ::1 /index.php/assets/js/vendor/holder.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001360s ]
+ERR: 无法加载模块:Assets
+
+[ 2017-10-27T14:06:33+08:00 ] ::1 /index.php/assets/js/ie10-viewport-bug-workaround.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Assets
+

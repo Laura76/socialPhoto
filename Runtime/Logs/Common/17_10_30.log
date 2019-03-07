@@ -1,0 +1,30 @@
+[ 2017-10-30T11:09:42+08:00 ] ::1 /index.php/Admin/LoginAdmin/index/account/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2017-10-30T12:26:50+08:00 ] ::1 /index.php/Admin/LoginAdmin/index/account/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+
+[ 2017-10-30T12:28:07+08:00 ] ::1 /index.php/Admin/LoginAdmin/index/account/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+
+[ 2017-10-30T12:28:19+08:00 ] ::1 /index.php/Admin/LoginAdmin/index/account/javascript/plug-ins/layerUi/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-10-30T12:32:25+08:00 ] ::1 /index.php/Admin/LoginAdmin/photographAdmin/account/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-10-30T12:33:02+08:00 ] ::1 /index.php/Admin/LoginAdmin/images/icon/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
